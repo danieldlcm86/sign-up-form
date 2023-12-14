@@ -8,4 +8,4 @@ Repo containing HTML and CSS for Sign-up form.
 ![Desktop-View](./assets/Sign-up-CSS-Avanzado_page-0001.jpg)
 
 ### Mobile view
-![Mobile-view]()
+![Mobile-view](./assets/responsive-design.png)
